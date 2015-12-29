@@ -1,0 +1,28 @@
+name: locussolum
+favicon: null
+layout_spectrum: 0.7731006189715117
+typography_spectrum: 0.6847848151810467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2724105562083423
+  lightness: 0.7543521078769118
+  saturation: 0.2907414131332189
+  rhythmicContrast: 0.9200211765710264
+purpose: []
